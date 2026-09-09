@@ -7,5 +7,5 @@ import react from "@vitejs/plugin-react";
 // exactly or the page will load blank with 404s in the console.
 export default defineConfig({
   plugins: [react()],
-  base: "/Vridhiacademy/",
+  base: "/online-classes/",
 });
